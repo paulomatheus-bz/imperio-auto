@@ -16,4 +16,8 @@ O objetivo é mostrar o trabalho da empresa e facilitar o contato de quem busca 
 
 Os arquivos da aplicação ainda não estão organizados neste repositório. Para uma vitrine desse tipo, considero HTML, CSS e JavaScript. Antes de atualizar a demonstração, confirmo os serviços, contatos e autorização para uso das imagens.
 
+## Continuidade do projeto
+
+A próxima revisão deve confirmar os serviços, a área de atendimento e as formas de contato com a empresa. Também vou verificar se as imagens estão autorizadas e se a demonstração continua funcionando em celular.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
