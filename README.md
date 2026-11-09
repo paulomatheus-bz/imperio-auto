@@ -1,6 +1,6 @@
 <h1 align="left">Império Auto</h1>
 
-<p><em>Criei uma página de apresentação para serviços de estética automotiva.</em></p>
+<p><em>Desenvolvi uma página de apresentação para serviços de estética automotiva.</em></p>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
