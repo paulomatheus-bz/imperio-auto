@@ -1,6 +1,6 @@
 <h1 align="left">Império Auto</h1>
 
-<p><em>Desenvolvi uma página de apresentação para serviços de estética automotiva.</em></p>
+<p><em>Página para apresentar os serviços de estética automotiva da Império Auto.</em></p>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -9,17 +9,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-
-
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Demonstração:** https://emperio-estetica-automotiva.vercel.app
 
-O objetivo é mostrar o trabalho da empresa e facilitar o contato de quem busca esses serviços. Orçamentos e contratação são tratados diretamente com a equipe.
+Página de apresentação dos serviços de estética automotiva. Orçamentos e contratação são tratados diretamente com a equipe.
 
-Os arquivos da aplicação ainda não estão organizados neste repositório. Para uma vitrine desse tipo, considero HTML, CSS e JavaScript. Antes de atualizar a demonstração, confirmo os serviços, contatos e autorização para uso das imagens.
-
-## Revisão com a equipe
-
-A próxima revisão deve confirmar os serviços, a área de atendimento e as formas de contato com a empresa. Também vou verificar se as imagens estão autorizadas e se a demonstração continua funcionando em celular.
+O código não está organizado neste repositório. HTML, CSS e JavaScript são a stack prevista. A empresa deve confirmar os serviços, contatos e autorização das imagens antes de atualizar a demonstração.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
