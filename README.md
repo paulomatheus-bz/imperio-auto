@@ -15,4 +15,9 @@ Página de apresentação dos serviços de estética automotiva. Orçamentos sã
 
 O código não está neste repositório. A stack prevista é HTML, CSS e JavaScript.
 
+
+## Portfólio de serviços
+
+Apresentação digital orientada à consulta dos serviços e à solicitação de orçamentos.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
